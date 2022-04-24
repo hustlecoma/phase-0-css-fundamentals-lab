@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+nav a {
+ background: rgb(192, 190, 191);
+}
+
+figure {
+  text-align: center;
+}
+
+#featured-property p {
+  text-align: center;
+  margin: 15px auto;
+  width: 50%;
+}
+
+#details {
+  background: rgb(239, 45, 45);
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+
